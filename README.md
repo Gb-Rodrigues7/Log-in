@@ -10,7 +10,7 @@ Uma tela de Log in que além de bonita e responsiva, torna-se funcional, aplican
 </p>
 
 <p align="center">
-  <img src="./Log In.jpg">
+  <img src="./Login.png">
 </p>
 
 <br>
