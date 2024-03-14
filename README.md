@@ -26,5 +26,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse belo Log in, foi criado com o intuito de ser utilizado futuramente em algum projeto de site, otimizando meu tempo!
 
-- [Acesse o projeto finalizado, online](https://gb-rodrigues7.github.io/Log-in/)
+- [Acesse o projeto finalizado, online]  <a href="https://gb-rodrigues7.github.io/Log-in/" target="_blank"></a>
 
