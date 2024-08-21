@@ -19,7 +19,7 @@ Uma tela de Log in que além de bonita e responsiva, torna-se funcional, aplican
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML, CSS e JavaScript
 - Git e Github
 
 ## 💻 Projeto
